@@ -1,7 +1,5 @@
 language: csharp
 solution: Coffer.sln
 
-mono: none
-
 script:
 - ./build.sh
