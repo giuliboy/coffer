@@ -4,4 +4,4 @@ solution: Coffer.sln
 mono: none
 
 script:
-- ./build.sh --quiet verify
+- ./build.sh
