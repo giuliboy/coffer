@@ -1,3 +1,6 @@
+language: csharp
+solution: Coffer.sln
+
 #!/usr/bin/env bash
 
 #exit if any command fails
