@@ -1,6 +1,7 @@
 language: csharp
 solution: Coffer.sln
 
+script:
 #!/usr/bin/env bash
 
 #exit if any command fails
