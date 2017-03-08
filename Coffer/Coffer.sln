@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Coffer", "src\Coffer\Coffer.xproj", "{EB6C608C-1FBA-43ED-8EDA-41E5AE9C01C3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{3B82E05A-3BDB-4EB8-8919-7890F0D5AF04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CofferTest", "CofferTest\CofferTest.csproj", "{8792B15C-9922-4186-9BA8-4C281973E3F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,11 +27,16 @@ Global
 		{EB6C608C-1FBA-43ED-8EDA-41E5AE9C01C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB6C608C-1FBA-43ED-8EDA-41E5AE9C01C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB6C608C-1FBA-43ED-8EDA-41E5AE9C01C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8792B15C-9922-4186-9BA8-4C281973E3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8792B15C-9922-4186-9BA8-4C281973E3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8792B15C-9922-4186-9BA8-4C281973E3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8792B15C-9922-4186-9BA8-4C281973E3F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EB6C608C-1FBA-43ED-8EDA-41E5AE9C01C3} = {022557C5-63AF-4484-BFEF-CDD57C7F6FE2}
+		{8792B15C-9922-4186-9BA8-4C281973E3F7} = {3B82E05A-3BDB-4EB8-8919-7890F0D5AF04}
 	EndGlobalSection
 EndGlobal
