@@ -1,5 +1,7 @@
 language: csharp
 solution: Coffer.sln
+dist: trusty
+sudo: required
 
 script:
 - ./build.sh
