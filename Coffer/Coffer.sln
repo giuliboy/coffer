@@ -7,7 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{022557C5-63A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{66AE0D62-2729-4234-B08B-72E3ABB10D1B}"
 	ProjectSection(SolutionItems) = preProject
-		.travis.yml = .travis.yml
 		global.json = global.json
 	EndProjectSection
 EndProject
