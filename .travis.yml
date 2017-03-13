@@ -1,3 +1,4 @@
 language: csharp
 solution: ./Coffer/Coffer.sln 
+mono: none
 
