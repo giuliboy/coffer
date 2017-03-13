@@ -1,6 +1,0 @@
-language: csharp
-solution: Coffer.sln
-dist: trusty
-sudo: required
-mono: none
-
