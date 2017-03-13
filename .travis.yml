@@ -1,4 +1,4 @@
 language: csharp
-solution: ./Coffer/Coffer.sln 
+solution: ./Coffer.sln 
 mono: none
 
